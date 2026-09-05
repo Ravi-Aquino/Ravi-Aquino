@@ -107,7 +107,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,maven,docker&theme=dark&perline=6" alt="Ferramentas"/>
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,maven&theme=dark&perline=6" alt="Ferramentas"/>
 
 </p>
 
@@ -159,19 +159,6 @@ Projeto em Java focado em CRUD, Collections, persistência em arquivos, geraçã
 
 </td>
 
-<td width="50%" align="center">
-
-### 🌱 Agro Fusão
-
-Projeto web desenvolvido para praticar front-end, estrutura visual, responsividade e apresentação de uma proposta relacionada ao agronegócio.
-
-<a href="#">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Aquino&repo=SEU_REPO_AGRO_FUSAO&bg_color=0D1117&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9&border_color=00F0FF" alt="Agro Fusão"/>
-</a>
-
-</td>
-
-</tr>
 
 </table>
 
@@ -185,7 +172,6 @@ Projeto web desenvolvido para praticar front-end, estrutura visual, responsivida
 | 📰 **Portal de Notícias** | HTML, CSS, JavaScript | Estruturação de um portal de conteúdo |
 | ✅ **To-Do List** | HTML, CSS, JavaScript | Prática de lógica e manipulação da interface |
 | 🔢 **Analisador de Números** | JavaScript | Prática de lógica, arrays e funções |
-| 🎮 **Projetos Roblox** | Lua / Roblox Studio | Desenvolvimento e experimentação de sistemas para jogos |
 
 ---
 

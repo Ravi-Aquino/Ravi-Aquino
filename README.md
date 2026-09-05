@@ -278,8 +278,4 @@ $ status --check
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:0D1117,50:1A0B2E,100:0D1117&height=150&section=footer&text=Obrigado%20pela%20visita!&fontSize=22&fontColor=00F0FF&fontAlignY=75&animation=twinkling" alt="Rodapé"/>
 
-<p align="center">
-<sub>💻 Feito com Java, curiosidade, muitos projetos e vontade de evoluir.</sub>
-</p>
-
 </div>

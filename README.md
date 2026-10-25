@@ -166,7 +166,7 @@ Projeto em Java focado em CRUD, Collections, persistência em arquivos, geraçã
 Projeto em front-end focado em HTML, CSS, JS, ThreeJs e mais. Com o objetivo de fazer uma "paródia" ao filme Jurassic Park 
 
 <a href="#">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Aquino&repo=CRUD-Simples&bg_color=0D1117&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9&border_color=00F0FF" alt="CRUD Java"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Aquino&repo=genetis-park&bg_color=0D1117&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9&border_color=00F0FF" alt="genetis park"/>
 </a>
 
 </td>

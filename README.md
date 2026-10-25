@@ -159,8 +159,6 @@ Projeto em Java focado em CRUD, Collections, persistência em arquivos, geraçã
 
 </td>
 
-<tr>
-
 <td width="50%" align="center">
 
 ### 👤 Genétis Park

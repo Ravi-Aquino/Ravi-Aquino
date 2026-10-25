@@ -138,7 +138,7 @@ Sistema desenvolvido em Java para praticar POO, organização de classes, entida
 Sistema para gerenciamento de livros, exemplares, usuários e empréstimos, desenvolvido pensando em regras de negócio e futura integração com front-end.
 
 <a href="#">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Aquino&repo=SEU_REPO_BIBLIOTECA&bg_color=0D1117&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9&border_color=00F0FF" alt="Sistema Biblioteca"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Aquino&repo=gerenciador-Biblioteca&bg_color=0D1117&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9&border_color=00F0FF" alt="Sistema Biblioteca"/>
 </a>
 
 </td>
@@ -154,24 +154,26 @@ Sistema para gerenciamento de livros, exemplares, usuários e empréstimos, dese
 Projeto em Java focado em CRUD, Collections, persistência em arquivos, geração de IDs e organização de responsabilidades.
 
 <a href="#">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Aquino&repo=SEU_REPO_CRUD&bg_color=0D1117&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9&border_color=00F0FF" alt="CRUD Java"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Aquino&repo=CRUD-Simples&bg_color=0D1117&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9&border_color=00F0FF" alt="CRUD Java"/>
 </a>
 
 </td>
 
+<tr>
+
+<td width="50%" align="center">
+
+### 👤 Genétis Park
+
+Projeto em front-end focado em HTML, CSS, JS, ThreeJs e mais. Com o objetivo de fazer uma "paródia" ao filme Jurassic Park 
+
+<a href="#">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Aquino&repo=CRUD-Simples&bg_color=0D1117&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9&border_color=00F0FF" alt="CRUD Java"/>
+</a>
+
+</td>
 
 </table>
-
----
-
-<h2 align="center">💻 Outros Projetos</h2>
-
-| Projeto | Tecnologias | Objetivo |
-|---|---|---|
-| 🛒 **WebCommerce** | HTML, CSS, JavaScript | Prática de desenvolvimento web |
-| 📰 **Portal de Notícias** | HTML, CSS, JavaScript | Estruturação de um portal de conteúdo |
-| ✅ **To-Do List** | HTML, CSS, JavaScript | Prática de lógica e manipulação da interface |
-| 🔢 **Analisador de Números** | JavaScript | Prática de lógica, arrays e funções |
 
 ---
 
@@ -240,18 +242,16 @@ $ status --check
 
 ---
 
+
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/Ravi-Aquino/Ravi-Aquino/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ravi-Aquino/Ravi-Aquino/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ravi-Aquino/Ravi-Aquino/output/github-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Ravi-Aquino/Ravi-Aquino/output/github-snake.svg" width="100%">
+  </picture>
 </p>
-
-<p align="center">
-<sub>⚠️ A animação precisa da GitHub Action configurada no repositório de perfil.</sub>
-</p>
-
 ---
 
 <h2 align="center">🌐 Conecte-se Comigo</h2>

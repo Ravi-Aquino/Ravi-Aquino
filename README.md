@@ -234,7 +234,9 @@ $ status --check
 
 <p align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ravi-Aquino&bg_color=0D1117&color=C9D1D9&line=00F0FF&point=FF2E97&title_color=00F0FF&border_color=00F0FF&area=true&custom_title=Minha%20Atividade%20no%20GitHub" alt="Activity Graph"/>
+
+[![Ravi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ravi-Aquino&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 </p>
 

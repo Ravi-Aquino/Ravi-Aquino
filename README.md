@@ -126,7 +126,7 @@
 Sistema desenvolvido em Java para praticar POO, organização de classes, entidades, repositories e regras de negócio.
 
 <a href="#">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Aquino&repo=SEU_REPO_BANCO&bg_color=0D1117&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9&border_color=00F0FF" alt="Sistema Bancário"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi-Aquino&repo=Sistema_Bancario_Basico_Java&bg_color=0D1117&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9&border_color=00F0FF" alt="Sistema Bancário"/>
 </a>
 
 </td>
@@ -229,14 +229,6 @@ $ status --check
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=Ravi-Aquino&background=0D1117&border=00F0FF&stroke=00F0FF&ring=FF2E97&fire=FF2E97&currStreakNum=FFFFFF&sideNums=00F0FF&currStreakLabel=FF2E97&sideLabels=C9D1D9&dates=7F5AF0" alt="GitHub Streak"/>
-
-</p>
-
-<p align="center">
-
-
-[![Ravi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ravi-Aquino&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 </p>
 
